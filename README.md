@@ -1,24 +1,17 @@
-# consulta-cnpj
+# Consulta-CNPJ
 
-## Project setup
-```
-npm install
-```
+## creating a new project
+$ vue init webpack-simple projectName
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## installing dependencies
+$ cdProjectFolder/
+$ npm install
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## raising server with reload on localhost:8080
+$ npm run dev
 
-### Lints and fixes files
-```
-npm run lint
-```
+## build for production with minification
+$ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
